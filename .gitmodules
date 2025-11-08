@@ -1,0 +1,3 @@
+[submodule "smart-electric-dashboard"]
+	path = smart-electric-dashboard
+	url = https://github.com/afi0204/smart-electric-dashboard.git
